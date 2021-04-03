@@ -1,3 +1,10 @@
+# solution 1 and 2
+    # https://github.com/hemanthmalik/furnish.git
+print('Solution for problem 1 and 2 are updated at https://github.com/hemanthmalik/furnish.git')
+    # endpoints /register and /login for respective apis along with a token secured testapi for security validation
+    # haven't added cors and allowed hosts as it is meant to be a test app.
+
+
 # solution 3
 print(" ".join(input("Enter string to be reversed --> ").split(" ")[::-1]))
 
